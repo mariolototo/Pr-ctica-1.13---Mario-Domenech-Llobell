@@ -2,3 +2,13 @@ h1.título{
     text-align: center;
     color: brown;
 }
+html{
+    background-color: wheat;
+}
+p.carta{
+    padding-left: 43px;
+}
+p.cafe{
+    float: center;
+    text-align: center;
+}
